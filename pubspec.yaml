@@ -1,0 +1,26 @@
+name: my_authenticator_app
+description: "Authenticator - A Flutter 2FA Authenticator App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.2
+  crypto: ^3.0.3
+  base32: ^2.1.3
+  mobile_scanner: ^5.0.0
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
