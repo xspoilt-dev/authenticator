@@ -14,8 +14,7 @@
 
 - ✅ Generate TOTP-based 2FA tokens
 - 🔐 Securely store and view 2FA keys
-- 📱 Cross-platform support (Android, iOS, Web, Desktop)
-- 📸 QR code scanning (future support)
+- 📸 QR code scanning
 - 🧑‍💻 100% open-source and self-hostable
 
 ---
@@ -83,9 +82,3 @@ For suggestions, bugs, or feedback, feel free to reach out or open an [issue](ht
 
 Made with ❤️ by [xspoilt-dev](https://github.com/xspoilt-dev)
 
-```
-
----
-
-Would you like me to include badges for platforms like Android/iOS, or help create screenshots for the app UI section?
-```
